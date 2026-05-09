@@ -97,7 +97,7 @@ export function AboutScreen() {
           <Divider />
           <AboutRow icon={<Feather name="share-2" size={18} color={Colors.textSecondary} />} title="Share VercelLens" subtitle="Tell others about the app" onPress={handleShare} />
           <Divider />
-          <AboutRow icon={<Feather name="github" size={18} color={Colors.textSecondary} />} title="Star on GitHub" subtitle="github.com/apoorvdarshan/verceltics" url="https://github.com/apoorvdarshan/verceltics" />
+          <AboutRow icon={<Feather name="github" size={18} color={Colors.textSecondary} />} title="Star on GitHub" subtitle="github.com/fariraimasocha/vercel-lens" url="https://github.com/fariraimasocha/vercel-lens" />
           <Divider />
           <AboutRow icon={<Feather name="arrow-up-circle" size={18} color={Colors.textSecondary} />} title="Upvote on Product Hunt" subtitle="producthunt.com/products/verceltics" url="https://www.producthunt.com/products/verceltics" />
         </Section>
@@ -111,7 +111,7 @@ export function AboutScreen() {
         <Section title="LINKS">
           <AboutRow icon={<Feather name="globe" size={18} color={Colors.textSecondary} />} title="Website" subtitle="verceltics.com" url="https://verceltics.com" />
           <Divider />
-          <AboutRow icon={<Feather name="code" size={18} color={Colors.textSecondary} />} title="Source Code" subtitle="github.com/apoorvdarshan/verceltics" url="https://github.com/apoorvdarshan/verceltics" />
+          <AboutRow icon={<Feather name="code" size={18} color={Colors.textSecondary} />} title="Source Code" subtitle="github.com/fariraimasocha/vercel-lens" url="https://github.com/fariraimasocha/vercel-lens" />
           <Divider />
           <AboutRow icon={<Feather name="linkedin" size={18} color={Colors.textSecondary} />} title="Follow on LinkedIn" subtitle="linkedin.com/in/fariraimasocha" url="https://www.linkedin.com/in/fariraimasocha/" />
           <Divider />
@@ -122,7 +122,7 @@ export function AboutScreen() {
         <Section title="HELP">
           <AboutRow icon={<Feather name="mail" size={18} color={Colors.textSecondary} />} title="Contact" subtitle="fariraimasocha@gmail.com" url="mailto:fariraimasocha@gmail.com" />
           <Divider />
-          <AboutRow icon={<Feather name="alert-circle" size={18} color={Colors.textSecondary} />} title="Report an Issue" subtitle="Open a GitHub issue" url="https://github.com/apoorvdarshan/verceltics/issues" />
+          <AboutRow icon={<Feather name="alert-circle" size={18} color={Colors.textSecondary} />} title="Report an Issue" subtitle="Open a GitHub issue" url="https://github.com/fariraimasocha/vercel-lens/issues" />
         </Section>
 
         {/* LEGAL */}
@@ -131,7 +131,7 @@ export function AboutScreen() {
           <Divider />
           <AboutRow icon={<Feather name="file-text" size={18} color={Colors.textSecondary} />} title="Terms of Service" subtitle="verceltics.com/terms" url="https://verceltics.com/terms" />
           <Divider />
-          <AboutRow icon={<Feather name="check-circle" size={18} color={Colors.textSecondary} />} title="License" subtitle="MIT License" url="https://github.com/apoorvdarshan/verceltics/blob/main/LICENSE" />
+          <AboutRow icon={<Feather name="check-circle" size={18} color={Colors.textSecondary} />} title="License" subtitle="MIT License" url="https://github.com/fariraimasocha/vercel-lens/blob/main/LICENSE" />
         </Section>
 
         {/* Footer */}
