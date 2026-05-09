@@ -98,8 +98,6 @@ export function AboutScreen() {
           <AboutRow icon={<Feather name="share-2" size={18} color={Colors.textSecondary} />} title="Share VercelLens" subtitle="Tell others about the app" onPress={handleShare} />
           <Divider />
           <AboutRow icon={<Feather name="github" size={18} color={Colors.textSecondary} />} title="Star on GitHub" subtitle="github.com/fariraimasocha/vercel-lens" url="https://github.com/fariraimasocha/vercel-lens" />
-          <Divider />
-          <AboutRow icon={<Feather name="arrow-up-circle" size={18} color={Colors.textSecondary} />} title="Upvote on Product Hunt" subtitle="producthunt.com/products/verceltics" url="https://www.producthunt.com/products/verceltics" />
         </Section>
 
         {/* APP */}
@@ -109,7 +107,7 @@ export function AboutScreen() {
 
         {/* LINKS */}
         <Section title="LINKS">
-          <AboutRow icon={<Feather name="globe" size={18} color={Colors.textSecondary} />} title="Website" subtitle="verceltics.com" url="https://verceltics.com" />
+          <AboutRow icon={<Feather name="globe" size={18} color={Colors.textSecondary} />} title="Website" subtitle="vercellense.fariraimasocha.co.zw" url="https://vercellense.fariraimasocha.co.zw" />
           <Divider />
           <AboutRow icon={<Feather name="code" size={18} color={Colors.textSecondary} />} title="Source Code" subtitle="github.com/fariraimasocha/vercel-lens" url="https://github.com/fariraimasocha/vercel-lens" />
           <Divider />
