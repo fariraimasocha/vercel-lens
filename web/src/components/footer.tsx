@@ -17,6 +17,12 @@ export default function Footer() {
           >
             Privacy Policy
           </a>
+          <a
+            href="/terms"
+            className="text-xs text-zinc-600 hover:text-zinc-400 transition-colors"
+          >
+            Terms
+          </a>
           <p className="text-xs text-zinc-600">Not affiliated with Vercel, Inc.</p>
         </div>
         <a
