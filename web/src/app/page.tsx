@@ -117,6 +117,7 @@ export default function Home() {
                 src="/apppictures/projects-portrait.png"
                 alt="VercelLens projects screen"
                 fill
+                loading="lazy"
                 className="object-cover object-top rounded-[36px]"
               />
             </div>
@@ -136,6 +137,7 @@ export default function Home() {
                 src="/apppictures/landing-portrait.png"
                 alt="VercelLens home screen"
                 fill
+                loading="lazy"
                 className="object-cover object-top rounded-[44px]"
               />
             </div>
@@ -157,6 +159,7 @@ export default function Home() {
                 src="/apppictures/analytics-portrait.png"
                 alt="VercelLens analytics screen"
                 fill
+                loading="lazy"
                 className="object-cover object-top rounded-[36px]"
               />
             </div>
@@ -320,6 +323,7 @@ export default function Home() {
                 src="/apppictures/analytics-portrait.png"
                 alt="Analytics screen"
                 fill
+                loading="lazy"
                 className="object-cover object-top rounded-[44px]"
               />
             </div>
@@ -342,6 +346,7 @@ export default function Home() {
                 src="/apppictures/projects-portrait.png"
                 alt="Projects screen"
                 fill
+                loading="lazy"
                 className="object-cover object-top rounded-[44px]"
               />
             </div>
