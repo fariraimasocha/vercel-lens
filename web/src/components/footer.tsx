@@ -25,15 +25,7 @@ export default function Footer() {
           </a>
           <p className="text-xs text-zinc-600">Not affiliated with Vercel, Inc.</p>
         </div>
-        <a
-          href="https://www.flaticon.com/free-icons/google-play"
-          title="google play icons"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-xs text-zinc-700 hover:text-zinc-500 transition-colors"
-        >
-          Google Play icon by Pixel perfect — Flaticon
-        </a>
+        <p className="text-xs text-zinc-600">built with ❤️ by Fari</p>
       </div>
     </footer>
   );
