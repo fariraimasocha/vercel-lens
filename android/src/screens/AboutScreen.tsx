@@ -107,7 +107,7 @@ export function AboutScreen() {
 
         {/* LINKS */}
         <Section title="LINKS">
-          <AboutRow icon={<Feather name="globe" size={18} color={Colors.textSecondary} />} title="Website" subtitle="vercellense.fariraimasocha.co.zw" url="https://vercellense.fariraimasocha.co.zw" />
+          <AboutRow icon={<Feather name="globe" size={18} color={Colors.textSecondary} />} title="Website" subtitle="vercellens.fariraimasocha.co.zw" url="https://vercellens.fariraimasocha.co.zw/" />
           <Divider />
           <AboutRow icon={<Feather name="code" size={18} color={Colors.textSecondary} />} title="Source Code" subtitle="github.com/fariraimasocha/vercel-lens" url="https://github.com/fariraimasocha/vercel-lens" />
           <Divider />
@@ -125,9 +125,9 @@ export function AboutScreen() {
 
         {/* LEGAL */}
         <Section title="LEGAL">
-          <AboutRow icon={<Feather name="shield" size={18} color={Colors.textSecondary} />} title="Privacy Policy" subtitle="verceltics.com/privacy" url="https://verceltics.com/privacy" />
+          <AboutRow icon={<Feather name="shield" size={18} color={Colors.textSecondary} />} title="Privacy Policy" subtitle="vercellens.fariraimasocha.co.zw/privacy-policy" url="https://vercellens.fariraimasocha.co.zw/privacy-policy" />
           <Divider />
-          <AboutRow icon={<Feather name="file-text" size={18} color={Colors.textSecondary} />} title="Terms of Service" subtitle="verceltics.com/terms" url="https://verceltics.com/terms" />
+          <AboutRow icon={<Feather name="file-text" size={18} color={Colors.textSecondary} />} title="Terms of Service" subtitle="vercellens.fariraimasocha.co.zw/terms" url="https://vercellens.fariraimasocha.co.zw/terms" />
           <Divider />
           <AboutRow icon={<Feather name="check-circle" size={18} color={Colors.textSecondary} />} title="License" subtitle="MIT License" url="https://github.com/fariraimasocha/vercel-lens/blob/main/LICENSE" />
         </Section>
