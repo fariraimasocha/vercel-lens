@@ -14,20 +14,20 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://verceltics.com"),
+  metadataBase: new URL("https://vercellens.fariraimasocha.co.zw"),
   title: "VercelLens — Website analytics for your Vercel sites",
   description:
     "See who is visiting your Vercel-hosted websites. Real visitor counts, page views, bounce rates, and per-page breakdowns, right from your phone.",
   openGraph: {
     type: "website",
-    url: "https://verceltics.com/",
+    url: "https://vercellens.fariraimasocha.co.zw/",
     siteName: "VercelLens",
     title: "VercelLens — Website analytics for your Vercel sites",
     description:
       "See who is visiting your Vercel-hosted websites. Real visitor counts, page views, bounce rates, and per-page breakdowns, right from your phone.",
     images: [
       {
-        url: "https://verceltics.com/og-image.png",
+        url: "https://vercellens.fariraimasocha.co.zw/og-image.png",
         width: 1200,
         height: 630,
         alt: "VercelLens — Website analytics for your Vercel sites",
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     title: "VercelLens — Website analytics for your Vercel sites",
     description:
       "See who is visiting your Vercel-hosted websites. Real visitor counts, page views, bounce rates, and per-page breakdowns, right from your phone.",
-    images: ["https://verceltics.com/og-image.png"],
+    images: ["https://vercellens.fariraimasocha.co.zw/og-image.png"],
   },
 };
 
